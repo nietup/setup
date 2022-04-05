@@ -12,7 +12,7 @@ git clone https://github.com/nietup/ideavimrc.git
 git clone https://github.com/nietup/mintty.git
 
 # create symlinks
-ln bashrc/.bash_aliases .bash_aliases
+ln bashrc/.bashrc .bashrc
 ln vimrc/.vimrc .vimrc
 ln ideavimrc/.ideavimrc .ideavimrc
 ln minttyrc/.minttyrc .minttyrc
